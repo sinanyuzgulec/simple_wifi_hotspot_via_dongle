@@ -3,8 +3,7 @@
 Turn your Windows PC into a **custom Wi-Fi hotspot** with a **modern web interface** —  
 no external router software required.
 
-![preview]([https://github.com/user-attachments/assets/example.png](https://github.com/sinanyuzgulec/simple_wifi_hotspot_via_dongle/blob/main/img/ss1.png
-))
+![preview](https://github.com/sinanyuzgulec/simple_wifi_hotspot_via_dongle/blob/main/img/ss1.png?raw=true)
 ---
 
 ## 🚀 Features
